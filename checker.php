@@ -1,1 +1,1 @@
-{ "version":"1.0.0", "longversion":10000, "released":1662919200, "updateurl":"https:\/\/ipbmafia.ru\/files\/file\/2762-k4-xf-global-statistics\/" }
+{ "version":"1.0.1", "longversion":10001, "released":1663192800, "updateurl":"https:\/\/ipbmafia.ru\/files\/file\/2762-k4-xf-global-statistics\/" }
